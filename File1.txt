@@ -1,1 +1,2 @@
 Estamos practicando el push y el pull
+modificando el archivo 1 para subirlo en github
